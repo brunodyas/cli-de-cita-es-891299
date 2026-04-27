@@ -1,3 +1,3 @@
 # Notas
 
-Endpoint GET /metrics com contadores em memória e timestamp — experiência de observabilidade mínima.
+Componente que persiste eventos de domínio e publica de forma atómica (outbox), com reintentos e idempotência no consumidor.
