@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-cli-de-cita-es-891299\\djenus_csharp_cli_de_cita_es_891299.csproj",
-      "projectName": "djenus_csharp_cli_de_cita_es_891299",
-      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-cli-de-cita-es-891299\\djenus_csharp_cli_de_cita_es_891299.csproj",
+      "projectUniqueName": "D:\\Projetos\\GitAuto\\workspace\\cli-de-cita-es-891299\\cli_de_cita_es_891299.csproj",
+      "projectName": "cli_de_cita_es_891299",
+      "projectPath": "D:\\Projetos\\GitAuto\\workspace\\cli-de-cita-es-891299\\cli_de_cita_es_891299.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\djenus-csharp-cli-de-cita-es-891299\\obj\\",
+      "outputPath": "D:\\Projetos\\GitAuto\\workspace\\cli-de-cita-es-891299\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",

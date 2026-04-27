@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cli_de_cita_es_891299/1.0.0": {
+        "runtime": {
+          "cli_de_cita_es_891299.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cli_de_cita_es_891299/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
