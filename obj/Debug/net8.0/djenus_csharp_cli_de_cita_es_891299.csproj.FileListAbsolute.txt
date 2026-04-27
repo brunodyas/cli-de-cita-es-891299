@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\bin\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.exe
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\bin\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.deps.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\bin\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\bin\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\bin\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\refint\djenus_csharp_cli_de_cita_es_891299.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_891299.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-891299\obj\Debug\net8.0\ref\djenus_csharp_cli_de_cita_es_891299.dll
